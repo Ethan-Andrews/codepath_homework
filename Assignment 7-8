@@ -16,7 +16,7 @@ Time spent: 4 hours spent in total
     - Vulnerability types:
     - Tested in version: 4.2
     - Fixed in version: Fixed in: 4.2.4
-  - [ ] GIF Walkthrough: ![](https://github.com/Ethan-Andrews/codepath_homework/blob/a172991750a1bee07eac83529f3d83586754f572/Exploit%201.gif)
+  - [ ] GIF Walkthrough: ![](Exploit 1.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
