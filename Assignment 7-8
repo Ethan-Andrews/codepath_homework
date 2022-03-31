@@ -16,7 +16,7 @@ Time spent: 4 hours spent in total
     - Vulnerability types:
     - Tested in version: 4.2
     - Fixed in version: Fixed in: 4.2.4
-  - [ ] GIF Walkthrough: ![](Exploit 1.gif)
+  - [ ] GIF Walkthrough: <a href="/course_images/cybersecurity_university/my_gif_walkthrough_url" target="_blank"><img src='/course
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
